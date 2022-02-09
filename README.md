@@ -10,4 +10,4 @@ Currently, there is no logic added. All this project can do at the moment is to 
 
 # Generating C#
 
-We only used the simplest approach here: all the proto files are stored in the Swag folder. Also, there you find a python script that generates a shell script that calls the protoc compiler for all files. Output is placed under the out/ subbfolder, this needs to be manually coped over to the Unity project. 
+We only used the simplest approach here: all the proto files are stored in the Swag folder. Also, there you find a python script that generates a shell script that calls the protoc compiler for all files. Output is placed under the out/ subbfolder, this needs to be manually copied over to the Unity project. 
