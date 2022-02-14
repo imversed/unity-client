@@ -12,7 +12,7 @@ Unfortunately, the gRPC stuff for iOS and Android drags in some really large .a 
 
 The contents of this repository is good for Unity, however if you'd like to edit code in an editor with syntax highlighting and other modern features, you need to install one of the supported IDEs and generate a C# Solution for them. 
 
-
+![Screenshot 2022-02-14 at 20 16 48](https://user-images.githubusercontent.com/503321/153913892-863ae333-3c5d-4646-8c11-2bad384d8af4.png)
 
 # Generating C#
 
